@@ -1,5 +1,6 @@
 title: Mood Music Study
-description: Researching the relationship between music and mood.
+description: Instructions for participating in the Mood Music Study.
 show_downloads: false
 remote_theme: pages-themes/cayman@v0.2.0
-description: Instructions for participating in the Mood Music Study.
+github:
+  is_project_page: false
