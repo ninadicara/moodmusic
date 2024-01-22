@@ -1,0 +1,57 @@
+author|Nina Di Cara
+author-email|nina.dicara@bristol.ac.uk
+project-name|Mood Music
+subject-id|%RANDOM
+can-test|0
+placeholder-message|No surveys to do right now, thank you for checking!
+compliance-display|2
+
+
+%SURVEY
+name|Daily Mood Survey
+can-run-once|0
+# 15 minutes to start survey
+max-delay|900
+# Reminder after 5 minutes
+reminders|300
+exit-message|3|Thanks for doing this survey!
+run|*|0745-1100, 1115-1430, 1445-1800
+run-for|14
+# randomise order of survey questions
+random-ranges|2-5
+
+1|Based on how you are feeling right now, please rate the following statements between 0 and 10, where 0 is not at all and 10 is completely. %TYPE checkbox |Ok
+2|I feel cheerful %HINT 0 is 'not at all' and 10 is 'completely' %TYPE slider %OPTIONS ticks:11, steps:11 |0|1|2|3|4|5|6|7|8|9|10
+3|I feel worried %HINT 0 is 'not at all' and 10 is 'completely' %TYPE slider %OPTIONS ticks:11, steps:11 |0|1|2|3|4|5|6|7|8|9|10
+4|I feel relaxed %HINT 0 is 'not at all' and 10 is 'completely' %TYPE slider %OPTIONS ticks:11, steps:11 |0|1|2|3|4|5|6|7|8|9|10
+5|I feel sad %HINT 0 is 'not at all' and 10 is 'completely' %TYPE slider %OPTIONS ticks:11, steps:11 |0|1|2|3|4|5|6|7|8|9|10
+6|I feel frustrated %HINT 0 is 'not at all' and 10 is 'completely' %TYPE slider %OPTIONS ticks:11, steps:11 |0|1|2|3|4|5|6|7|8|9|10
+
+
+%SURVEY
+name|Evening Mood Survey
+can-run-once|0
+# 15 minutes to start survey
+max-delay|900
+# Reminder after 5 minutes
+reminders|300
+exit-message|3|We appreciate you taking part today! Remember that if you ever need to talk to someone about your mental health you can text SHOUT at any time on 85258. 
+run|*|1815-2130
+run-for|14
+# randomise order of survey questions
+random-ranges|2-5
+
+1|Based on how you are feeling right now, please rate the following statements between 0 and 10, where 0 is not at all and 10 is completely. %TYPE checkbox |Ok
+2|I feel cheerful %HINT 0 is 'not at all' and 10 is 'completely' %TYPE slider %OPTIONS ticks:11, steps:11 |0|1|2|3|4|5|6|7|8|9|10
+3|I feel worried %HINT 0 is 'not at all' and 10 is 'completely' %TYPE slider %OPTIONS ticks:11, steps:11 |0|1|2|3|4|5|6|7|8|9|10
+4|I feel relaxed %HINT 0 is 'not at all' and 10 is 'completely' %TYPE slider %OPTIONS ticks:11, steps:11 |0|1|2|3|4|5|6|7|8|9|10
+5|I feel sad %HINT 0 is 'not at all' and 10 is 'completely' %TYPE slider %OPTIONS ticks:11, steps:11 |0|1|2|3|4|5|6|7|8|9|10
+6|I feel frustrated %HINT 0 is 'not at all' and 10 is 'completely' %TYPE slider %OPTIONS ticks:11, steps:11 |0|1|2|3|4|5|6|7|8|9|10
+
+
+
+
+
+
+
+
