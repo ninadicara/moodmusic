@@ -1,4 +1,8 @@
 title: Mood Music Study
 description: Researching the relationship between music and mood.
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: minima
+description: Information about the Mood Music Study.
+author:
+  name: Nina Di Cara
+  email: nina.dicara@bristol.ac.uk
