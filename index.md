@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![Study Timeline](./static/timeline.png)
+
 This page contains some links you will need to take part in the study by setting up the daily surveys app. 
 Please only do this with the help of Nina or Annabel so we can make sure it's loaded correctly.
 
