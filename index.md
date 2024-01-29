@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Mood Music Study Instructions
+
 ## Download 'PIEL Survey' on your phone
 
 iPhone Users: [Download from App store](https://itunes.apple.com/au/app/piel-survey/id1257313392?mt=8)  
