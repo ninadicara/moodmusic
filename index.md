@@ -11,8 +11,8 @@ Please only do this with the help of Nina or Annabel so we can make sure it's lo
 
 Choose the correct link for your mobile phone to download the survey app.
 
-iPhone Users: [Download from App store](itunes.apple.com/au/app/piel-survey/id1257313392?mt=8)  
-Android Users: [Download from Google Play](play.google.com/store/apps/details?id=au.com.bluejay.pielsurvey)  
+iPhone Users: [Download from App store](https://itunes.apple.com/au/app/piel-survey/id1257313392?mt=8)  
+Android Users: [Download from Google Play](https://play.google.com/store/apps/details?id=au.com.bluejay.pielsurvey)  
 
 Once it's downloaded have a go at the sample survey that it is in there, and make sure your notifications are enabled for that app.
 
