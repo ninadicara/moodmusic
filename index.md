@@ -19,7 +19,7 @@ Android Users: [Download from Google Play](https://play.google.com/store/apps/de
 
 Do the sample survey, and make sure your notifications are turned on!
 
-### [Download the survey config file]((./static/moodmusic.survey)
+### [Download the survey config file](./static/moodmusic.survey)
 
 Click below to download the config file, and open it in the PIEL Survey App. 
 Get Nina or Annabel to help with this bit.
