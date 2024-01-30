@@ -35,7 +35,7 @@ can-run-once|0
 max-delay|900
 # Reminder after 5 minutes
 reminders|300
-exit-message|3|We appreciate you taking part today! Remember that if you ever need to talk to someone about your mental health you can text SHOUT at any time on 85258. 
+exit-message|8|We appreciate you taking part today! Remember that if you ever need to talk to someone about your mental health you can text SHOUT at any time on 85258. 
 run|*|1815-2130
 run-for|14
 # randomise order of survey questions
