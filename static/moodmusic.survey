@@ -18,7 +18,7 @@ exit-message|3|Thanks for doing this survey!
 run|*|0745-1100, 1115-1430, 1445-1800
 run-for|14
 # randomise order of survey questions
-random-ranges|2-5
+random-ranges|2-6
 
 1|Based on how you are feeling right now, please rate the following statements between 0 and 10, where 0 is not at all and 10 is completely. %TYPE checkbox |Ok
 2|I feel cheerful %HINT 0 is 'not at all' and 10 is 'completely' %TYPE slider %OPTIONS ticks:11, steps:11 |0|1|2|3|4|5|6|7|8|9|10
@@ -39,7 +39,7 @@ exit-message|8|We appreciate you taking part today! Remember that if you ever ne
 run|*|1815-2130
 run-for|14
 # randomise order of survey questions
-random-ranges|2-5
+random-ranges|2-6
 
 1|Based on how you are feeling right now, please rate the following statements between 0 and 10, where 0 is not at all and 10 is completely. %TYPE checkbox |Ok
 2|I feel cheerful %HINT 0 is 'not at all' and 10 is 'completely' %TYPE slider %OPTIONS ticks:11, steps:11 |0|1|2|3|4|5|6|7|8|9|10
