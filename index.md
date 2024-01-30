@@ -24,7 +24,7 @@ You can do that by clicking on the download, click 'Share' and open it in PIEL S
 
 Once it's in the app, click on the survey to start it.
 You should see a screen with a progress bar that says you've done 0% of the surveys so far.
-You will get 5 short questions (should take less than 2 mins) delivered to you 4 times randomly each day between 07:45 and 21:30.
+You will get 5 short questions (should take less than 2 mins) delivered to you 4 times randomly each day between 08:30 and 21:30.
 
 ### Step 5: We will catch up in 2 weeks! 
 
