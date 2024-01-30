@@ -15,7 +15,7 @@ max-delay|900
 # Reminder after 5 minutes
 reminders|300
 exit-message|3|Thanks for doing this survey!
-run|*|0745-1100, 1115-1430, 1445-1800
+run|*|0830-1100, 1115-1430, 1445-1800
 run-for|14
 # randomise order of survey questions
 random-ranges|2-6
